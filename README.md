@@ -6,3 +6,5 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 📫 How to reach me: zhangfuwen@foxmail.com  
 ⚡ Blog: https://xjbcode.fun 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
