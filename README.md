@@ -15,8 +15,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 90 Public Repositories 
@@ -67,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 01:19:34 UTC
+ Last Updated on 16/09/2025 01:14:12 UTC
 <!--END_SECTION:waka-->
