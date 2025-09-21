@@ -7,6 +7,8 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -21,6 +23,37 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌆 Daytime                294 commits         █████████████░░░░░░░░░░░░   50.17 % 
+🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      4 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.61 % 
+Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+CMake                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Lua                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Rust                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+
+🔥 Editors: 
+Neovim                   8 hrs 15 mins       █████████████████████░░░░   84.10 % 
+Obsidian                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+
+💻 Operating System: 
+WSL                      8 hrs 15 mins       █████████████████████░░░░   84.10 % 
+Windows                  1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -34,5 +67,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 01:12:32 UTC
+ Last Updated on 21/09/2025 01:21:03 UTC
 <!--END_SECTION:waka-->
