@@ -7,8 +7,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -36,5 +34,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 01:21:17 UTC
+ Last Updated on 23/09/2025 01:13:45 UTC
 <!--END_SECTION:waka-->
