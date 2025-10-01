@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
@@ -15,11 +15,11 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2025
+> 🏆 72 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 90 Public Repositories 
+> 📜 91 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -39,13 +39,17 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+C++                      47 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Bash                     45 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+CMake                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Zig                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -61,5 +65,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2025 01:17:08 UTC
+ Last Updated on 01/10/2025 01:23:10 UTC
 <!--END_SECTION:waka-->
