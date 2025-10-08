@@ -39,17 +39,13 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 10 mins       ████████████████░░░░░░░░░   62.23 % 
-Lua                      1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Zig                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -65,5 +61,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2025 01:15:00 UTC
+ Last Updated on 08/10/2025 01:14:17 UTC
 <!--END_SECTION:waka-->
