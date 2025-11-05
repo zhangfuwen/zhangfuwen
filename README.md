@@ -7,6 +7,8 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2048%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -65,5 +67,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:19:33 UTC
+ Last Updated on 05/11/2025 01:21:24 UTC
 <!--END_SECTION:waka-->
