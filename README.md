@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
@@ -39,17 +39,13 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 23 mins       █████████████████████████   99.06 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Markdown                 9 hrs 19 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 8 hrs 23 mins       █████████████████████████   99.06 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Obsidian                 9 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 23 mins       █████████████████████████   99.06 % 
-WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Windows                  9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -65,5 +61,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2025 01:20:46 UTC
+ Last Updated on 12/11/2025 01:20:58 UTC
 <!--END_SECTION:waka-->
