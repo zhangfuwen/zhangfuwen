@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20thousand%20lines%20of%20code-blue)
 
@@ -15,7 +15,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2025
+> 🏆 74 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -26,10 +26,10 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-🌆 Daytime                294 commits         █████████████░░░░░░░░░░░░   50.17 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌞 Morning                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+🌆 Daytime                295 commits         █████████████░░░░░░░░░░░░   50.26 % 
+🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   30.15 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
@@ -39,13 +39,16 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 52 mins       █████████████████████████   100.00 % 
+Markdown                 3 hrs 19 mins       ████████████████████████░   95.52 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 52 mins       █████████████████████████   100.00 % 
+Obsidian                 3 hrs 19 mins       ████████████████████████░   95.52 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       ████████████████████████░   95.52 % 
+WSL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 **I Mostly Code in C++** 
@@ -61,5 +64,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 01:21:39 UTC
+ Last Updated on 14/11/2025 01:21:02 UTC
 <!--END_SECTION:waka-->
