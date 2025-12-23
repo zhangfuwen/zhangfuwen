@@ -39,13 +39,15 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     16 mins             █████████████░░░░░░░░░░░░   50.05 % 
+C                        16 mins             ████████████░░░░░░░░░░░░░   48.74 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -61,5 +63,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2025 01:28:51 UTC
+ Last Updated on 23/12/2025 01:25:51 UTC
 <!--END_SECTION:waka-->
