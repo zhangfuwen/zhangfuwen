@@ -7,8 +7,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2023%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.32%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -23,36 +21,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-🌆 Daytime                295 commits         █████████████░░░░░░░░░░░░   50.26 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   30.15 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Lua                      23 mins             ██████████░░░░░░░░░░░░░░░   39.02 % 
-Bash                     20 mins             █████████░░░░░░░░░░░░░░░░   34.83 % 
-TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Desktop file             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-
-🔥 Editors: 
-Unknown Editor           38 mins             ████████████████░░░░░░░░░   65.34 % 
-Neovim                   20 mins             █████████░░░░░░░░░░░░░░░░   34.66 % 
-
-💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -66,5 +34,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:28:24 UTC
+ Last Updated on 03/01/2026 01:23:06 UTC
 <!--END_SECTION:waka-->
