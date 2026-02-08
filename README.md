@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.88%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -15,11 +15,11 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 94 Public Repositories 
+> 📜 95 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -56,15 +56,15 @@ Mac                      46 mins             █░░░░░░░░░░�
 **I Mostly Code in C++** 
 
 ```text
-Lua                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Lua                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 07/02/2026 01:51:26 UTC
+ Last Updated on 08/02/2026 02:17:15 UTC
 <!--END_SECTION:waka-->
