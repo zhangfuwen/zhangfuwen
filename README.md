@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.88%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -39,17 +39,17 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.16 % 
-Python                   5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Rust                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-JSON                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Rust                     7 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
+Python                   5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Markdown                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 6 mins       █████████████████████████   100.00 % 
+Neovim                   21 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -65,5 +65,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2026 02:12:21 UTC
+ Last Updated on 11/02/2026 02:07:44 UTC
 <!--END_SECTION:waka-->
