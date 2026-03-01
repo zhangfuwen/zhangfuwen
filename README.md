@@ -7,9 +7,9 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.01%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,10 +26,10 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                139 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-🌆 Daytime                301 commits         ███████████░░░░░░░░░░░░░░   45.13 % 
-🌃 Evening                214 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+🌞 Morning                140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 Daytime                301 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
+🌃 Evening                215 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
@@ -39,14 +39,16 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-on                       52 mins             ██████████████████████░░░   88.54 % 
-TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+on                       52 mins             ██████████████████████░░░   86.26 % 
+TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Neovim                   59 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
+Linux                    1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -62,5 +64,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 01:35:36 UTC
+ Last Updated on 01/03/2026 02:05:52 UTC
 <!--END_SECTION:waka-->
