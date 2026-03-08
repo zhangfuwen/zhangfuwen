@@ -15,11 +15,11 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 16 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 97 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -39,32 +39,32 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   39.30 % 
-JSON                     1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.16 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Rust                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
+JSON                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 20 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       ██████████████████████░░░   87.62 % 
-Mac                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Linux                    2 hrs 54 mins       █████████████████████░░░░   84.29 % 
+Mac                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-Lua                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 07/03/2026 01:50:11 UTC
+ Last Updated on 08/03/2026 01:57:43 UTC
 <!--END_SECTION:waka-->
