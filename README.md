@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.01%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -15,11 +15,11 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 97 Public Repositories 
+> 📜 98 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -39,32 +39,32 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.15 % 
-JSON                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JSON                     2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
+Rust                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Markdown                 1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 27 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 54 mins       █████████████████████░░░░   84.29 % 
-Mac                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Linux                    2 hrs 54 mins       █████████████░░░░░░░░░░░░   50.17 % 
+Mac                      2 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.83 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
 
 
- Last Updated on 08/03/2026 01:57:43 UTC
+ Last Updated on 09/03/2026 01:59:57 UTC
 <!--END_SECTION:waka-->
