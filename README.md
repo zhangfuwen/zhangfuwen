@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.01%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -39,32 +39,32 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
-Rust                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-Markdown                 1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-conf                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+JSON                     2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.12 % 
+Rust                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Markdown                 1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+conf                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 47 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 54 mins       █████████████░░░░░░░░░░░░   50.17 % 
-Mac                      2 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.83 % 
+Mac                      2 hrs 53 mins       ██████████████░░░░░░░░░░░   55.69 % 
+Linux                    2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C                        7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 09/03/2026 01:59:57 UTC
+ Last Updated on 10/03/2026 01:52:13 UTC
 <!--END_SECTION:waka-->
