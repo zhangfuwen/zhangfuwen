@@ -9,27 +9,27 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.01%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2026
+> 🏆 37 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 99 Public Repositories 
+> 📜 100 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌆 Daytime                301 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
-🌃 Evening                215 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🌞 Morning                141 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌆 Daytime                301 commits         ███████████░░░░░░░░░░░░░░   43.81 % 
+🌃 Evening                226 commits         ████████░░░░░░░░░░░░░░░░░   32.90 % 
+🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
@@ -39,32 +39,32 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 53 mins        ████████████░░░░░░░░░░░░░   46.66 % 
-Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Rust                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-conf                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     1 hr 50 mins        ████████████░░░░░░░░░░░░░   47.36 % 
+Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Rust                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 3 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       ██████████████████░░░░░░░   71.15 % 
-Linux                    1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Mac                      2 hrs 53 mins       ███████████████████░░░░░░   74.43 % 
+Linux                    59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 12/03/2026 01:57:32 UTC
+ Last Updated on 13/03/2026 01:56:17 UTC
 <!--END_SECTION:waka-->
