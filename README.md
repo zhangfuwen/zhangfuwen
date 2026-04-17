@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.89%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -15,7 +15,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2026
+> 🏆 110 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,18 +39,18 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
-JSON                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-sshconfig                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
+JSON                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Markdown                 1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+sshconfig                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 33 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       ████████████████░░░░░░░░░   62.87 % 
-Linux                    1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.13 % 
+Mac                      2 hrs 52 mins       ███████████████░░░░░░░░░░   60.23 % 
+Linux                    1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.77 % 
 ```
 
 **I Mostly Code in C++** 
@@ -66,5 +66,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 02:24:51 UTC
+ Last Updated on 17/04/2026 02:20:33 UTC
 <!--END_SECTION:waka-->
