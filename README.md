@@ -15,7 +15,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,32 +39,32 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.92 % 
-JSON                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-sshconfig                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Python                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
+JSON                     1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+on                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 26 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       ████████████████░░░░░░░░░   64.48 % 
-Linux                    1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   35.52 % 
+Mac                      2 hrs 53 mins       ████████████████░░░░░░░░░   64.70 % 
+Linux                    1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
 
 
- Last Updated on 18/04/2026 02:11:15 UTC
+ Last Updated on 19/04/2026 02:25:23 UTC
 <!--END_SECTION:waka-->
