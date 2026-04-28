@@ -7,7 +7,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.89%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -15,7 +15,7 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,15 +39,14 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     14 mins             █████████████████████░░░░   83.93 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+YAML                     14 mins             █████████████████████████   99.20 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Neovim                   17 mins             █████████████████████████   100.00 % 
+Neovim                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             ██████████████████████░░░   87.01 % 
-Linux                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -63,5 +62,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2026 02:38:21 UTC
+ Last Updated on 28/04/2026 02:47:56 UTC
 <!--END_SECTION:waka-->
