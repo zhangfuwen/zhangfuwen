@@ -39,14 +39,13 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     6 mins              ███████████████████████░░   92.61 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -62,5 +61,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2026 02:37:25 UTC
+ Last Updated on 10/05/2026 02:41:13 UTC
 <!--END_SECTION:waka-->
