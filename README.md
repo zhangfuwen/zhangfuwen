@@ -7,8 +7,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
 ⚡ Blog: https://xjbcode.fun 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2015%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -23,31 +21,6 @@ I'm zhangfuwen, a full-stack developer passionate about open source.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                137 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-🌆 Daytime                327 commits         ███████████░░░░░░░░░░░░░░   45.29 % 
-🌃 Evening                236 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
-🌙 Night                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -61,5 +34,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 02:51:11 UTC
+ Last Updated on 15/05/2026 02:51:00 UTC
 <!--END_SECTION:waka-->
